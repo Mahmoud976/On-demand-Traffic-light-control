@@ -1,16 +1,18 @@
 # 🚦 On-Demand Traffic Light Control System
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/mahmoud-m-saleh/">
+    <img src="https://shields.io" alt="Developer Mahmoud Saleh">
+  </a>
   <img src="https://shields.io" alt="ATmega32">
   <img src="https://shields.io" alt="Embedded C">
-  <img src="https://shields.io" alt="Architecture">
   <img src="https://shields.io" alt="License">
 </p>
 
 ---
 
 ## 📌 Project Overview
-An advanced embedded system firmware that controls an intelligent, pedestrian-responsive traffic light system. It manages state transitions dynamically based on user interaction (Push Button via External Interrupts) while adhering to strict safety protocols for both drivers and pedestrians.
+An advanced embedded system firmware developed by **Mahmoud Saleh**. It implements an intelligent, pedestrian-responsive traffic light controller that manages state transitions dynamically based on user interaction (Push Button via External Interrupts) while adhering to strict safety protocols for both drivers and pedestrians.
 
 ---
 
@@ -107,6 +109,14 @@ flowchart TD
 2. Build the project to get the `.hex` file.
 3. Open the schematic located inside the `/proteus` folder using Labcenter Proteus.
 4. Run the interactive simulation.
+
+---
+
+## 👨‍💻 Author
+**Mahmoud Saleh**  
+* Embedded Systems Software Engineer  
+* [GitHub Profile](https://github.com/Mahmoud976)  
+* [LinkedIn Profile](https://www.linkedin.com/in/mahmoud-m-saleh/)  
 
 ---
 
