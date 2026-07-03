@@ -29,6 +29,7 @@ Backup of *
 
 # Ignore logs and autosave files
 *.log
+*.componentinfo.xml
 *.LOG
 faults.txt
 *.asf
