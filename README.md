@@ -21,15 +21,14 @@ The workspace is cleanly structured to isolate hardware dependencies and follow 
 ├── 📁 MCAL                 <-- Microcontroller Abstraction Layer (DIO, Timer0, EXTI)
 ├── 📁 Utilities            <-- Common Macros, Register maps & Standard Data Types
 ├── 📁 proteus              <-- Contains the official Proteus schematic files
-└── 📁 Documentation        <-- Supplementary files (Project Report PDF & Diagrams)
-    ├── 📁 images
-    │   ├── schematic_preview.png
-    │   └── flowchart.png
-    └── project_report.pdf
+└── 📁 Documentation        <-- Supplementary files and engineering report
+    ├── 📄 circuit.png      <-- System simulation capture preview
+    └── 📄 REPORT.md         <-- Comprehensive engineering document in Markdown
 ├── .gitignore              <-- Auto-configured rules for Microchip Studio & Proteus files
 ├── LICENSE                 <-- Official MIT License file
 ├── project_two.cproj       <-- Microchip Studio configuration project file
 └── README.md               <-- Main repository documentation
+
 ```
 
 ---
@@ -192,6 +191,13 @@ To achieve absolute timing execution without blocking core operations via uncali
 *The driver software loads $237$ directly into the $TCNT0$ register at the initialization boundary of the temporal cycle to ensure perfect compliance with the 5000 ms constraint.*
 
 ---
+
+## 🔌 Hardware Simulation (Proteus Workspace)
+The complete schematic simulation workspace is included within the repository inside the `/proteus` folder. You can test the interactive state machine and observe the system response upon triggering the external interrupt.
+
+### Schematic Preview:
+![Project Schematic](Documentation/circuit.png)
+
 ---
 
 ## 🧪 Edge Case Verification & User Stories
