@@ -1,13 +1,8 @@
 # 🚦 On-Demand Traffic Light Control System
 
-<p align="center">
-  <a href="https://linkedin.com">
-    <img src="https://shields.io" alt="Developer Mahmoud Saleh">
-  </a>
-  <img src="https://shields.io" alt="ATmega32">
-  <img src="https://shields.io" alt="Embedded C">
-  <img src="https://shields.io" alt="License">
-</p>
+[![Release](https://img.shields.io/github/v/release/Mahmoud976/STM32-Smart-Car-Parking-System)](https://github.com/Mahmoud976/On-demand-Traffic-light-control/releases/tag/v1.0.0)
+
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
 
