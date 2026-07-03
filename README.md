@@ -219,7 +219,7 @@ To achieve absolute timing execution without blocking core operations via uncali
 **Mahmoud Saleh**
 * Embedded Software Engineer
 * [GitHub Profile](https://github.com/Mahmoud976)
-* [LinkedIn Profile](https://linkedin.com)
+* [LinkedIn Profile](https://www.linkedin.com/in/mahmoud-m-saleh/)
 ---
 
 ## 📜 License
