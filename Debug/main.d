@@ -4,9 +4,9 @@ main.d main.o: .././main.c .././MCAL/DIO\ Driver/dio.h \
  .././ECUAL/Button\ Driver/button.h \
  .././ECUAL/Button\ Driver/../../MCAL/DIO\ Driver/dio.h \
  .././ECUAL/Button\ Driver/../../MCAL/Interrupt\ LIbrary/interrupts.h \
- g:\concol\embedded\ microship\project_two\project_two\utilities\registers.h \
+ .././ECUAL/Button\ Driver/../../MCAL/Interrupt\ LIbrary/../../Utilities/registers.h \
  .././ECUAL/Button\ Driver/../../MCAL/Timer\ Driver/timer.h \
- g:\concol\embedded\ microship\project_two\project_two\utilities\registers.h \
+ .././ECUAL/Button\ Driver/../../MCAL/Timer\ Driver/../../Utilities/registers.h \
  .././ECUAL/Led\ Driver/led.h \
  .././ECUAL/Led\ Driver/../../MCAL/DIO\ Driver/dio.h \
  .././ECUAL/Led\ Driver/../../MCAL/Interrupt\ LIbrary/interrupts.h \
@@ -24,11 +24,11 @@ main.d main.o: .././main.c .././MCAL/DIO\ Driver/dio.h \
 
 .././ECUAL/Button\ Driver/../../MCAL/Interrupt\ LIbrary/interrupts.h:
 
-g:\concol\embedded\ microship\project_two\project_two\utilities\registers.h:
+.././ECUAL/Button\ Driver/../../MCAL/Interrupt\ LIbrary/../../Utilities/registers.h:
 
 .././ECUAL/Button\ Driver/../../MCAL/Timer\ Driver/timer.h:
 
-g:\concol\embedded\ microship\project_two\project_two\utilities\registers.h:
+.././ECUAL/Button\ Driver/../../MCAL/Timer\ Driver/../../Utilities/registers.h:
 
 .././ECUAL/Led\ Driver/led.h:
 

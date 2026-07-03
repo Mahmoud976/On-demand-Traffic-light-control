@@ -493,15 +493,15 @@ END GROUP
  .debug_abbrev  0x0000073d       0x71 MCAL/DIO Driver/dio.o
  .debug_abbrev  0x000007ae       0x89 MCAL/Timer Driver/timer.o
 
-.debug_line     0x00000000      0xbc6
+.debug_line     0x00000000      0xbd3
  *(.debug_line .debug_line.* .debug_line_end)
  .debug_line    0x00000000      0x116 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32a/avr5/crtatmega32a.o
- .debug_line    0x00000116      0x497 Application/application.o
- .debug_line    0x000005ad       0xff ECUAL/Button Driver/button.o
- .debug_line    0x000006ac      0x137 ECUAL/Led Driver/led.o
- .debug_line    0x000007e3       0x79 main.o
- .debug_line    0x0000085c      0x274 MCAL/DIO Driver/dio.o
- .debug_line    0x00000ad0       0xf6 MCAL/Timer Driver/timer.o
+ .debug_line    0x00000116      0x4a4 Application/application.o
+ .debug_line    0x000005ba       0xff ECUAL/Button Driver/button.o
+ .debug_line    0x000006b9      0x137 ECUAL/Led Driver/led.o
+ .debug_line    0x000007f0       0x79 main.o
+ .debug_line    0x00000869      0x274 MCAL/DIO Driver/dio.o
+ .debug_line    0x00000add       0xf6 MCAL/Timer Driver/timer.o
 
 .debug_frame    0x00000000      0x248
  *(.debug_frame)
@@ -512,20 +512,20 @@ END GROUP
  .debug_frame   0x00000198       0x54 MCAL/DIO Driver/dio.o
  .debug_frame   0x000001ec       0x5c MCAL/Timer Driver/timer.o
 
-.debug_str      0x00000000      0x4c2
+.debug_str      0x00000000      0x514
  *(.debug_str)
  .debug_str     0x00000000      0x196 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32a/avr5/crtatmega32a.o
- .debug_str     0x00000196      0x1e2 Application/application.o
-                                0x209 (size before relaxing)
- .debug_str     0x00000378       0x5c ECUAL/Button Driver/button.o
+ .debug_str     0x00000196      0x1f9 Application/application.o
+                                0x220 (size before relaxing)
+ .debug_str     0x0000038f       0x97 ECUAL/Button Driver/button.o
                                 0x1cd (size before relaxing)
- .debug_str     0x000003d4       0x4c ECUAL/Led Driver/led.o
+ .debug_str     0x00000426       0x4c ECUAL/Led Driver/led.o
                                 0x1d2 (size before relaxing)
- .debug_str     0x00000420       0x17 main.o
-                                0x18f (size before relaxing)
- .debug_str     0x00000437       0x38 MCAL/DIO Driver/dio.o
+ .debug_str     0x00000472       0x17 main.o
+                                0x1a6 (size before relaxing)
+ .debug_str     0x00000489       0x38 MCAL/DIO Driver/dio.o
                                 0x1ca (size before relaxing)
- .debug_str     0x0000046f       0x53 MCAL/Timer Driver/timer.o
+ .debug_str     0x000004c1       0x53 MCAL/Timer Driver/timer.o
                                 0x1d2 (size before relaxing)
 
 .debug_loc      0x00000000      0xae3
